@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react-dom": "17.0.2",
-    "react": "17.0.2",
     "@ant-design/icons": "4.7.0",
-    "antd": "4.18.2"
+    "antd": "4.18.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "shortid": "^2.2.16"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,5 +17,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
