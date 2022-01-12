@@ -1,0 +1,20 @@
+{
+  "name": "dfmpzx--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "17.0.2",
+    "react": "17.0.2",
+    "@ant-design/icons": "4.7.0",
+    "antd": "4.18.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
